@@ -15,3 +15,8 @@ Atri is a general purpose framework that can be used to build everything from e-
 - pipenv install atri
 - pipenv shell
 - atri start
+
+### The visual editor is available at http://localhost:4002.
+Once you click Build and Run in your visual editor, your website will start running at http://localhost:4005/.
+All the files for your website are being auto-generated in your local directory.
+You can write the backend of your website at controllers/routes/<page_name>/main.py.
