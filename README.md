@@ -9,4 +9,4 @@ Atri is a general purpose framework that can be used to build everything from e-
 2. Atri framework comes with a suite of productivity tools such as visual editor, asset management tools, etc. that significantly reduce development time from months to hours.
 3. Using Atri framework, developers do not need to write and document REST APIs. Instead, they rely upon the object model which acts as a single source of truth. This also has other benefits as well such as reducing compliance breaches.
 
-###Thus, Atri framework is extending the definition of full-stack to include non web developers in the development and maintenance of an app.
+### Thus, Atri framework is extending the definition of full-stack to include non web developers in the development and maintenance of an app.
