@@ -1,0 +1,22 @@
+a {
+  text-decoration: none;
+  color: black;
+}
+.p-Home .TextBox16 {
+  font-weight: 500;
+}
+.p-Home .TextBox17 {
+  font-weight: 500;
+}
+
+.div,
+.divImg {
+  transition: 0.3s all ease-in-out;
+}
+.hoverEffect:hover .div {
+  transform: scale(0.95);
+  opacity: 0.8;
+}
+.hoverEffect:hover .divImg {
+  transform: scale(1.05);
+}
