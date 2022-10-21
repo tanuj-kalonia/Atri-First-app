@@ -40,27 +40,6 @@ export function updateStoreStateFromController(pageName, newState) {
 const desktopModeProps = {
   ...{
   "Home": {
-    "Flex1": {
-      "callbacks": {}
-    },
-    "Flex2": {
-      "callbacks": {}
-    },
-    "Flex3": {
-      "callbacks": {}
-    },
-    "Flex4": {
-      "callbacks": {}
-    },
-    "Div1": {
-      "callbacks": {}
-    },
-    "Flex64": {
-      "callbacks": {}
-    },
-    "Div5": {
-      "callbacks": {}
-    },
     "Div6": {
       "callbacks": {}
     },
@@ -68,9 +47,6 @@ const desktopModeProps = {
       "callbacks": {}
     },
     "Flex9": {
-      "callbacks": {}
-    },
-    "Div8": {
       "callbacks": {}
     },
     "Div11": {
@@ -82,64 +58,73 @@ const desktopModeProps = {
     "Div12": {
       "callbacks": {}
     },
-    "Flex65": {
+    "Flex86": {
       "callbacks": {}
     },
     "Div13": {
       "callbacks": {}
     },
-    "Flex14": {
+    "Flex88": {
       "callbacks": {}
     },
-    "Div14": {
+    "Div58": {
       "callbacks": {}
     },
-    "Div15": {
+    "Div59": {
       "callbacks": {}
     },
-    "Flex67": {
+    "Flex87": {
       "callbacks": {}
     },
-    "Flex15": {
+    "Flex90": {
       "callbacks": {}
     },
-    "Div16": {
+    "Div60": {
       "callbacks": {}
     },
-    "Flex68": {
+    "Div61": {
       "callbacks": {}
     },
-    "Div17": {
+    "Flex89": {
       "callbacks": {}
     },
-    "Flex16": {
+    "Flex94": {
       "callbacks": {}
     },
-    "Div18": {
+    "Div64": {
       "callbacks": {}
     },
-    "Flex69": {
+    "Div65": {
       "callbacks": {}
     },
-    "Div19": {
+    "Flex93": {
       "callbacks": {}
     },
-    "Flex26": {
+    "Div68": {
       "callbacks": {}
     },
-    "Flex70": {
+    "Flex97": {
       "callbacks": {}
     },
     "Flex33": {
       "callbacks": {}
     },
-    "Div26": {
+    "Flex96": {
       "callbacks": {}
     },
-    "Div27": {
+    "Div66": {
       "callbacks": {}
     },
-    "Flex72": {
+    "Div67": {
+      "callbacks": {}
+    },
+    "Flex95": {
+      "callbacks": {}
+    },
+    "Div69": {
+      "callbacks": {}
+    },
+    "Flex39": {
       "callbacks": {}
     },
     "Flex35": {
@@ -151,28 +136,25 @@ const desktopModeProps = {
     "Flex74": {
       "callbacks": {}
     },
-    "Flex39": {
-      "callbacks": {}
-    },
     "Flex40": {
       "callbacks": {}
     },
     "Div28": {
       "callbacks": {}
     },
-    "Div35": {
+    "Div70": {
       "callbacks": {}
     },
-    "Div36": {
+    "Div71": {
       "callbacks": {}
     },
-    "Div37": {
+    "Div72": {
       "callbacks": {}
     },
-    "Div38": {
+    "Div73": {
       "callbacks": {}
     },
-    "Div39": {
+    "Div74": {
       "callbacks": {}
     },
     "Flex43": {
@@ -184,159 +166,98 @@ const desktopModeProps = {
     "Flex76": {
       "callbacks": {}
     },
-    "Flex45": {
+    "Flex99": {
       "callbacks": {}
     },
-    "Div40": {
+    "Div75": {
       "callbacks": {}
     },
-    "Div41": {
+    "Flex100": {
       "callbacks": {}
     },
-    "Flex47": {
+    "Div76": {
       "callbacks": {}
     },
-    "Div42": {
+    "Flex77": {
       "callbacks": {}
     },
-    "Div43": {
+    "Flex78": {
       "callbacks": {}
     },
-    "Flex49": {
+    "Flex79": {
+      "callbacks": {}
+    },
+    "Flex83": {
+      "callbacks": {}
+    },
+    "Flex84": {
+      "callbacks": {}
+    },
+    "Div56": {
+      "callbacks": {}
+    },
+    "Flex85": {
+      "callbacks": {}
+    },
+    "Flex104": {
       "callbacks": {}
     },
     "Flex50": {
       "callbacks": {}
     },
-    "Div44": {
+    "Flex101": {
+      "callbacks": {}
+    },
+    "Div77": {
       "callbacks": {}
     },
     "Flex51": {
       "callbacks": {}
     },
-    "Div46": {
+    "Div78": {
       "callbacks": {}
     },
-    "Div45": {
+    "Flex105": {
       "callbacks": {}
     },
-    "Flex52": {
+    "Flex106": {
       "callbacks": {}
     },
-    "Flex53": {
+    "Flex107": {
       "callbacks": {}
     },
-    "Div47": {
+    "Flex111": {
       "callbacks": {}
     },
-    "Flex56": {
+    "Flex110": {
       "callbacks": {}
     },
-    "Flex54": {
+    "Flex116": {
       "callbacks": {}
     },
-    "Div49": {
+    "Div81": {
       "callbacks": {}
     },
-    "Flex57": {
+    "Div84": {
       "callbacks": {}
     },
-    "Div50": {
+    "Div85": {
       "callbacks": {}
     },
-    "Div51": {
+    "Flex115": {
       "callbacks": {}
     },
-    "Div53": {
+    "Div87": {
       "callbacks": {}
     },
-    "Flex58": {
+    "Flex117": {
       "callbacks": {}
     },
-    "Flex60": {
+    "Flex118": {
       "callbacks": {}
     },
-    "Flex61": {
+    "Flex119": {
       "callbacks": {}
-    },
-    "Flex62": {
-      "callbacks": {}
-    },
-    "Flex63": {
-      "callbacks": {}
-    },
-    "TextBox1": {
-      "custom": {
-        "text": "Webfolio X"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Button45": {
-      "custom": {
-        "text": "About"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Button46": {
-      "custom": {
-        "text": "Portfolio"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Button47": {
-      "custom": {
-        "text": "Contact"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Button48": {
-      "custom": {
-        "text": "Pages"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image1": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/Screenshot%202022-10-16%20150619.png"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
     },
     "TextBox6": {
       "custom": {
@@ -386,7 +307,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox12": {
+    "TextBox151": {
       "custom": {
         "text": "Past Projects"
       },
@@ -400,7 +321,7 @@ const desktopModeProps = {
     },
     "TextBox16": {
       "custom": {
-        "text": "Website design for finance startup"
+        "text": "Illustration design for Education X"
       },
       "callbacks": {
         "onClick": [
@@ -412,7 +333,7 @@ const desktopModeProps = {
     },
     "TextBox17": {
       "custom": {
-        "text": "App X        —       Web Design "
+        "text": "Education X         —       Illustrations"
       },
       "callbacks": {
         "onClick": [
@@ -434,10 +355,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image51": {
+    "Button63": {
       "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/uparrow.png"
+        "text": "View Project"
       },
       "callbacks": {
         "onClick": [
@@ -447,9 +367,10 @@ const desktopModeProps = {
         ]
       }
     },
-    "Button50": {
+    "Image65": {
       "custom": {
-        "text": "View Project"
+        "alt": "No preview available",
+        "src": "/app-assets/uparrow.png"
       },
       "callbacks": {
         "onClick": [
@@ -462,7 +383,7 @@ const desktopModeProps = {
     "Image3": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/60e7971cc340a26c7a072b55_app-x-thumbnail-image-portfolio-x-webflow-template%20(1).jpg"
+        "src": "/app-assets/4.jpg"
       },
       "callbacks": {
         "onClick": [
@@ -472,7 +393,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image4": {
+    "Image67": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/2.jpg"
@@ -485,7 +406,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox19": {
+    "TextBox139": {
       "custom": {
         "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit mattis faucibus odio feugiat arcu scelerisque drogon sit amenot."
       },
@@ -497,9 +418,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox20": {
+    "TextBox140": {
       "custom": {
-        "text": "App X     —    Web Design "
+        "text": "Technology —       Branding        "
       },
       "callbacks": {
         "onClick": [
@@ -509,9 +430,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox21": {
+    "TextBox141": {
       "custom": {
-        "text": "Technology Branding Brand refresh for Technology app"
+        "text": "Brand refresh for Technology app"
       },
       "callbacks": {
         "onClick": [
@@ -521,19 +442,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Button51": {
-      "custom": {
-        "text": "View Project"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image52": {
+    "Image66": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/uparrow.png"
@@ -546,43 +455,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox22": {
-      "custom": {
-        "text": "Illustration design for Education X"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox23": {
-      "custom": {
-        "text": "App X     —    Web Design "
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox24": {
-      "custom": {
-        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit mattis faucibus odio feugiat arcu scelerisque drogon sit amenot."
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Button52": {
+    "Button64": {
       "custom": {
         "text": "View Project"
       },
@@ -594,20 +467,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image53": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/uparrow.png"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image5": {
+    "Image69": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/3.jpg"
@@ -620,31 +480,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox25": {
-      "custom": {
-        "text": "Website design for finance startup"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox26": {
-      "custom": {
-        "text": "App X     —    Web Design "
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox27": {
+    "TextBox142": {
       "custom": {
         "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit mattis faucibus odio feugiat arcu scelerisque drogon sit amenot."
       },
@@ -656,9 +492,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "Button53": {
+    "TextBox143": {
       "custom": {
-        "text": "View Project"
+        "text": "Consulting X         —       Web Design "
       },
       "callbacks": {
         "onClick": [
@@ -668,10 +504,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image54": {
+    "TextBox144": {
       "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/uparrow.png"
+        "text": "Website redesign for Consulting X"
       },
       "callbacks": {
         "onClick": [
@@ -681,32 +516,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image6": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/4.jpg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Button54": {
-      "custom": {
-        "text": "View Project"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image55": {
+    "Image68": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/uparrow.png"
@@ -719,10 +529,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image23": {
+    "Button65": {
       "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/round.svg"
+        "text": "View Project"
       },
       "callbacks": {
         "onClick": [
@@ -732,7 +541,106 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image22": {
+    "Image73": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/60e7971cc340a26c7a072b55_app-x-thumbnail-image-portfolio-x-webflow-template%20(1).jpg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox148": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit mattis faucibus odio feugiat arcu scelerisque drogon sit amenot."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox149": {
+      "custom": {
+        "text": "App X        —       Web Design "
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox150": {
+      "custom": {
+        "text": "Website design for finance startup"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image72": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/uparrow.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button67": {
+      "custom": {
+        "text": "View Project"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image76": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/uparrow.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button69": {
+      "custom": {
+        "text": "Browse portfolio"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image78": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/5.jpeg"
@@ -745,9 +653,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox33": {
+    "TextBox153": {
       "custom": {
-        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit mattis faucibus odio feugiat arcu scelerisque drogon sit amenot."
+        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit mattis faucibus odio feugiat arcu scelerisqu"
       },
       "callbacks": {
         "onClick": [
@@ -757,7 +665,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox35": {
+    "TextBox155": {
       "custom": {
         "text": "Who’s behind all this great work?"
       },
@@ -769,7 +677,20 @@ const desktopModeProps = {
         ]
       }
     },
-    "Button56": {
+    "Image74": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/uparrow.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button68": {
       "custom": {
         "text": "About Me"
       },
@@ -781,10 +702,10 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image57": {
+    "Image79": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/uparrow.png"
+        "src": "/app-assets/round.svg"
       },
       "callbacks": {
         "onClick": [
@@ -868,7 +789,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox49": {
+    "TextBox156": {
       "custom": {
         "text": "Lorem ipsum dolor sit amet, consectet adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
       },
@@ -880,7 +801,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox50": {
+    "TextBox157": {
       "custom": {
         "text": "Product Design"
       },
@@ -892,7 +813,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image31": {
+    "Image80": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/12.svg"
@@ -905,7 +826,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox51": {
+    "TextBox158": {
       "custom": {
         "text": "Lorem ipsum dolor sit amet, consectet adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
       },
@@ -917,44 +838,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox52": {
-      "custom": {
-        "text": "Web Design"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image32": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/13.svg"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox53": {
-      "custom": {
-        "text": "Lorem ipsum dolor sit amet, consectet adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox54": {
+    "TextBox159": {
       "custom": {
         "text": "User Research"
       },
@@ -966,7 +850,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image33": {
+    "Image81": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/14.svg"
@@ -979,7 +863,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox55": {
+    "TextBox160": {
       "custom": {
         "text": "Lorem ipsum dolor sit amet, consectet adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
       },
@@ -991,7 +875,44 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox56": {
+    "TextBox161": {
+      "custom": {
+        "text": "Motion Graphics"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image82": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/16.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox162": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet, consectet adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox163": {
       "custom": {
         "text": "Brand Design"
       },
@@ -1003,7 +924,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image34": {
+    "Image83": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/15%20-%20Copy.svg"
@@ -1016,7 +937,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox57": {
+    "TextBox164": {
       "custom": {
         "text": "Lorem ipsum dolor sit amet, consectet adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore."
       },
@@ -1028,9 +949,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox58": {
+    "TextBox165": {
       "custom": {
-        "text": "Motion Graphics"
+        "text": "Web Design"
       },
       "callbacks": {
         "onClick": [
@@ -1040,10 +961,10 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image35": {
+    "Image84": {
       "custom": {
         "alt": "No preview available",
-        "src": "/app-assets/16.svg"
+        "src": "/app-assets/13.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1090,7 +1011,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image38": {
+    "Image85": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/21.jpeg"
@@ -1103,9 +1024,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox61": {
+    "TextBox166": {
       "custom": {
-        "text": "Design    —   September 1, 2022"
+        "text": "Design         —       September 1, 2022"
       },
       "callbacks": {
         "onClick": [
@@ -1115,9 +1036,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox62": {
+    "TextBox167": {
       "custom": {
-        "text": "What did I learn from doing 50+ design sprints?"
+        "text": "What did I learn from  doing 50+ design sprits?"
       },
       "callbacks": {
         "onClick": [
@@ -1127,7 +1048,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image40": {
+    "Image86": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/22.jpeg"
@@ -1140,9 +1061,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox64": {
+    "TextBox173": {
       "custom": {
-        "text": "Typography     —    Web Design "
+        "text": "5 free hot typographies to download in 2022"
       },
       "callbacks": {
         "onClick": [
@@ -1152,9 +1073,94 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox65": {
+    "TextBox174": {
       "custom": {
-        "text": "Website design for finance startup"
+        "text": "Typography         —       September 1, 2022"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox136": {
+      "custom": {
+        "text": ""
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox168": {
+      "custom": {
+        "text": "Webfolio X"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image63": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Screenshot%202022-10-16%20150619.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox169": {
+      "custom": {
+        "text": "About"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox170": {
+      "custom": {
+        "text": "Portfolio"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox171": {
+      "custom": {
+        "text": "Contact"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox172": {
+      "custom": {
+        "text": "Pages"
       },
       "callbacks": {
         "onClick": [
@@ -1167,6 +1173,18 @@ const desktopModeProps = {
     "TextBox66": {
       "custom": {
         "text": "Interested in working together?"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox70": {
+      "custom": {
+        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit nulla arcu porttitor molestie sed mauris sollicitudin id ornare egestas."
       },
       "callbacks": {
         "onClick": [
@@ -1200,18 +1218,6 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox70": {
-      "custom": {
-        "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit nulla arcu porttitor molestie sed mauris sollicitudin id ornare egestas."
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
     "Image41": {
       "custom": {
         "alt": "No preview available",
@@ -1225,19 +1231,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox73": {
-      "custom": {
-        "text": "Lorem ipsum dolor sit amet tragon consectetur adipiscing elit mattis faucibus odio feugiat arcu scelerisque"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "TextBox74": {
+    "TextBox175": {
       "custom": {
         "text": "Webfolio X"
       },
@@ -1249,21 +1243,26 @@ const desktopModeProps = {
         ]
       }
     },
-    "Input1": {
+    "TextBox213": {
       "custom": {
-        "value": "",
-        "placeholder": "Enter your email",
-        "isPasswordField": false
+        "text": "Lorem ipsum dolor sit amet tragon consectetur adipiscing elit mattis faucibus odio feugiat arcu scelerisque"
       },
       "callbacks": {
-        "onChange": [
+        "onClick": [
           {
             "sendEventData": true
           }
         ]
       }
     },
-    "Button2": {
+    "Input3": {
+      "custom": {
+        "value": "",
+        "placeholder": "Enter your email"
+      },
+      "callbacks": {}
+    },
+    "Button71": {
       "custom": {
         "text": "Subscribe"
       },
@@ -1275,7 +1274,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image42": {
+    "Image87": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/uparrow.png"
@@ -1288,7 +1287,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox75": {
+    "TextBox181": {
       "custom": {
         "text": "Menu"
       },
@@ -1300,7 +1299,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Button5": {
+    "TextBox182": {
       "custom": {
         "text": "Home V1"
       },
@@ -1312,9 +1311,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "Button6": {
+    "TextBox190": {
       "custom": {
-        "text": " Home V2"
+        "text": "Home V2"
       },
       "callbacks": {
         "onClick": [
@@ -1324,9 +1323,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "Button7": {
+    "TextBox191": {
       "custom": {
-        "text": " Home V3"
+        "text": "Home V3"
       },
       "callbacks": {
         "onClick": [
@@ -1336,7 +1335,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Button8": {
+    "TextBox192": {
       "custom": {
         "text": "About V1"
       },
@@ -1348,7 +1347,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Button9": {
+    "TextBox193": {
       "custom": {
         "text": "About V2"
       },
@@ -1360,7 +1359,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Button10": {
+    "TextBox194": {
       "custom": {
         "text": "About V3"
       },
@@ -1372,55 +1371,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Button11": {
-      "custom": {
-        "text": "Blog V1"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Button12": {
-      "custom": {
-        "text": "Blog V2"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Button13": {
-      "custom": {
-        "text": "Blog V3"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Button17": {
-      "custom": {
-        "text": "Blog Post"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Button18": {
+    "TextBox195": {
       "custom": {
         "text": "Product"
       },
@@ -1432,19 +1383,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Button19": {
-      "custom": {
-        "text": ""
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Button21": {
+    "TextBox196": {
       "custom": {
         "text": "Shop"
       },
@@ -1456,9 +1395,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "Button22": {
+    "TextBox197": {
       "custom": {
-        "text": "Portfolio"
+        "text": "Blog Post"
       },
       "callbacks": {
         "onClick": [
@@ -1468,9 +1407,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "Button23": {
+    "TextBox198": {
       "custom": {
-        "text": "Case Study"
+        "text": "Blog V3"
       },
       "callbacks": {
         "onClick": [
@@ -1480,9 +1419,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "Button24": {
+    "TextBox199": {
       "custom": {
-        "text": "Past Clients"
+        "text": "Blog V2"
       },
       "callbacks": {
         "onClick": [
@@ -1492,9 +1431,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "Button25": {
+    "TextBox200": {
       "custom": {
-        "text": "Newsletter"
+        "text": "Blog V1"
       },
       "callbacks": {
         "onClick": [
@@ -1504,7 +1443,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Button26": {
+    "TextBox202": {
       "custom": {
         "text": "Contact"
       },
@@ -1516,7 +1455,55 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox127": {
+    "TextBox203": {
+      "custom": {
+        "text": "Newsletter"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox204": {
+      "custom": {
+        "text": "Past Clients"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox205": {
+      "custom": {
+        "text": "Case Study"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox206": {
+      "custom": {
+        "text": "Portfolio"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox214": {
       "custom": {
         "text": "Utility Pages"
       },
@@ -1528,7 +1515,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox128": {
+    "TextBox215": {
       "custom": {
         "text": "More Templates"
       },
@@ -1540,19 +1527,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Button34": {
-      "custom": {
-        "text": "Changelog"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Button33": {
+    "TextBox216": {
       "custom": {
         "text": "Licenses"
       },
@@ -1564,7 +1539,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Button32": {
+    "TextBox217": {
       "custom": {
         "text": "Password Protected"
       },
@@ -1576,7 +1551,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Button31": {
+    "TextBox218": {
       "custom": {
         "text": "404 Not Found"
       },
@@ -1588,7 +1563,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Button30": {
+    "TextBox219": {
       "custom": {
         "text": "Style Guide"
       },
@@ -1600,7 +1575,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Button29": {
+    "TextBox220": {
       "custom": {
         "text": "Start Here"
       },
@@ -1612,7 +1587,19 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox130": {
+    "TextBox221": {
+      "custom": {
+        "text": "Changelog"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox224": {
       "custom": {
         "text": "Copyright © Webfolio X | Designed by"
       },
@@ -1624,9 +1611,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox131": {
+    "TextBox225": {
       "custom": {
-        "text": "BRIX Templates"
+        "text": " BRIX Templates"
       },
       "callbacks": {
         "onClick": [
@@ -1636,9 +1623,9 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox132": {
+    "TextBox226": {
       "custom": {
-        "text": "- Powered by"
+        "text": " - Powered by"
       },
       "callbacks": {
         "onClick": [
@@ -1648,7 +1635,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "TextBox134": {
+    "TextBox227": {
       "custom": {
         "text": "Webflow"
       },
@@ -1660,59 +1647,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image43": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/facebook.png"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image44": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/twitter.png"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image45": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/Screenshot%202022-10-19%20134153.png"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image46": {
-      "custom": {
-        "alt": "No preview available",
-        "src": "/app-assets/Screenshot%202022-10-19%20133947.png"
-      },
-      "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
-      }
-    },
-    "Image47": {
+    "Image88": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/Screenshot%202022-10-19%20134043.png"
@@ -1725,7 +1660,46 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image48": {
+    "Image89": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/twitter.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image90": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Screenshot%202022-10-19%20134153.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image91": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/Screenshot%202022-10-19%20133947.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image92": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/Screenshot%202022-10-19%20134055.png"
@@ -1738,7 +1712,7 @@ const desktopModeProps = {
         ]
       }
     },
-    "Image49": {
+    "Image93": {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/Screenshot%202022-10-19%20134105.png"
